@@ -1,24 +1,22 @@
-Hi, I'm Lahari 👋
+# Hi!! I'm Lahari
 
-Backend Engineer (Python) focused on building production-grade APIs and
-LLM-powered systems.
+Backend Engineer · Async Systems · AI Infrastructure
 
-I specialize in designing clean backend architectures, working with
-databases, and building Retrieval-Augmented Generation (RAG) applications
-that combine ML fundamentals with real-world backend engineering.
+Building production-style backend systems focused on async workflows, retrieval pipelines, AI orchestration, and reliability engineering.
 
-Currently preparing for Backend + Generative AI roles at product-based
-companies.
+Currently focused on:
 
-Tech:
-- Python, Flask
-- SQL (SQLite, PostgreSQL)
-- Git & GitHub
-- Data Structures & Algorithms (Python)
-- GenAI: RAG, LangChain, LlamaIndex
+- FastAPI
+- PostgreSQL
+- Redis
+- Async Python
+- LangChain
+- FAISS
+- Docker
+- System Design
+- DSA
 
-What I care about:
-- Clean API design & backend architecture
-- Readable, maintainable, testable code
-- Strong fundamentals over shortcuts
+Interested in backend engineering, distributed systems, and AI infrastructure.
 
+LinkedIn:
+linkedin.com/in/lahari-m-330567317
