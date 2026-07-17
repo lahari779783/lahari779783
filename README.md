@@ -18,5 +18,4 @@ Currently focused on:
 
 Interested in backend engineering, distributed systems, and AI infrastructure.
 
-LinkedIn:
-linkedin.com/in/lahari-m-330567317
+
